@@ -50,30 +50,49 @@ Open the project in your preferred code editor:
 
 
 Start a local server:
+
 If you have Python installed, you can use its built-in server:
 
 python -m http.server
+
 Then, open your browser and go to http://localhost:8000.
 
 Usage
+
 After setting up the project locally, you can open index.html in your web browser to view the portfolio. Navigate through the different sections to see the various features and projects showcased.
 
 Project Structure
+
 |-- css/
+
 |   |-- styles.css
+
 |-- files/
+
 |   |-- my-cv.pdf
+
 |-- images/
+
 |   |-- pass.jpeg
+
 |   |-- about.png
+
 |   |-- portfolio1.jpeg
+
 |   |-- portfolio2.jpeg
+
 |   |-- portfolio3.jpeg
+
 |   |-- portfolio4.jpeg
+
 |   |-- portfolio5.jpeg
+
 |   |-- portfolio6.png
+
 |-- js/
+
 |-- index.html
+
 |-- script.js
 
 Development Report
@@ -98,11 +117,13 @@ Future Plans
 - Adding more projects to the portfolio
 
 Contributing
+
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue to discuss your ideas.
 
 
 
 Contact
+
 For any inquiries or feedback, please contact me at:
 
 Email: linkipskirui@gmail.com
