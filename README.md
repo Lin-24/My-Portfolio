@@ -103,7 +103,10 @@ Contributions are welcome! If you have any suggestions or improvements, please c
 Contact
 For any inquiries or feedback, please contact me at:
 
-Email: kipkoriralbert@example.com
-LinkedIn: Kipkorir Albert
-Twitter: @yourprofile
+Email: linkipskirui@gmail.com
+
+LinkedIn: [Kipkorir Albert](https://www.linkedin.com/in/albert-kipkorir)
+
+Twitter: @kirui_kipkorir1
+
 Thank you for visiting my portfolio!
