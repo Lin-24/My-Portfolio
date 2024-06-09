@@ -77,24 +77,26 @@ Project Structure
 |-- script.js
 
 Development Report
+
 Successes
-Successfully implemented a fully responsive design.
-Integrated ScrollReveal and Typed.js libraries for smooth animations and text effects.
-Positive feedback on user interface and user experience.
+
+- Successfully implemented a fully responsive design.
+- Integrated ScrollReveal and Typed.js libraries for smooth animations and text effects.
+- Positive feedback on user interface and user experience.
 
 Challenges
-Debugging cross-browser compatibility issues.
-Ensuring the website meets accessibility standards.
+- Debugging cross-browser compatibility issues.
+- Ensuring the website meets accessibility standards.
 
 Areas for Improvement
-Further optimization for load times.
-Addition of more interactive elements and animations.
+= Further optimization for load times.
+= Addition of more interactive elements and animations.
 
 Future Plans
-Implementing a blog section.
-Enhancing SEO features.
-Adding more projects to the portfolio
-.
+- Implementing a blog section.
+- Enhancing SEO features.
+- Adding more projects to the portfolio
+
 Contributing
 Contributions are welcome! If you have any suggestions or improvements, please create a pull request or open an issue to discuss your ideas.
 
